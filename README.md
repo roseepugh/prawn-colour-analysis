@@ -26,8 +26,8 @@ How To Use:
 
 
 Credits for the photos in the example dataset:
-Bay-Nouailhat, W., n.d. Chameleon Prawn. Photograph. (hipvar7.png)
-Chameleon prawns - Devon, 2018. (hipvar6.png)
-Green, S., 2019. My Exeter PhD: Camouflage helps brightly coloured chameleon prawns to survive in the rock pools. Exeter Marine. (hipvar5.png, hipvar11.png, hipvar12.png, hipvar13.png, hipvar14.png)
-Green, S., Duarte, R., Kellett, E., Alagaratnam, N., and Stevens, M., 2019. Colour change and behavioural choice facilitate chameleon prawn camouflage against different seaweed backgrounds. Communications Biology, 2. (hipvar1.png, hipvar2.png, hipvar4.png, hipvar8.png, hipvar9.png, hipvar10.png)
-Oakley, J., n.d. Green Hippolyte varians in a sandy rockpool. Photograph. (hipvar3.png)
+Bay-Nouailhat, W., n.d. Chameleon Prawn. Photograph. (hipvar7.png);
+Chameleon prawns - Devon, 2018. (hipvar6.png);
+Green, S., 2019. My Exeter PhD: Camouflage helps brightly coloured chameleon prawns to survive in the rock pools. Exeter Marine. (hipvar5.png, hipvar11.png, hipvar12.png, hipvar13.png, hipvar14.png);
+Green, S., Duarte, R., Kellett, E., Alagaratnam, N., and Stevens, M., 2019. Colour change and behavioural choice facilitate chameleon prawn camouflage against different seaweed backgrounds. Communications Biology, 2. (hipvar1.png, hipvar2.png, hipvar4.png, hipvar8.png, hipvar9.png, hipvar10.png);
+Oakley, J., n.d. Green Hippolyte varians in a sandy rockpool. Photograph. (hipvar3.png);
