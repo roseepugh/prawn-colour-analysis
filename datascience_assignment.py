@@ -3,7 +3,7 @@ import prawncolour
 import os
 
 #finds number of photos for analysis
-foldermax = len(os.listdir("./data/photos"))
+foldermax = len(os.listdir("./data/prawns"))
 folder = 1
 
 #identifies colour of prawn in each image
