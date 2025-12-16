@@ -18,7 +18,7 @@ How To Use:
 1) Download both of the python scripts to your working directory.
 2) Ensure required modules are installed
 3) Either
-   a) download the prawns.zip file and extract this inside a folder named "data" inside your working directory, such that the photos are in ./data/prawns . If your folder structure is different, you can change line 11 of prawncolour.py to ensure that the script can find your photos. Or
-   b) move your own photos of chameleon prawns to a folder called "prawns" inside a folder called "data" in your working directory such that the photos are in ./data/prawns . If your folder structure is different, you can change line 11 of prawncolour.py to ensure that the script can find your photos. Either name your photos hipvar[number] or change line 11 of prawncolour.py to reflect your naming convention
-4) Ensure all photos are the same filetype, and line 11 of prawncolour.py reflects this. If not, convert your photos and edit line 11 of prawncolour.py to match your chosen filetype (png reccomended)
+   a) download the prawns.zip file and extract this inside a folder named "data" inside your working directory, such that the photos are in ./data/prawns . If your folder structure is different, you can change line 20 of prawncolour.py to ensure that the script can find your photos. Or
+   b) move your own photos of chameleon prawns to a folder called "prawns" inside a folder called "data" in your working directory such that the photos are in ./data/prawns . If your folder structure is different, you can change line 20 of prawncolour.py to ensure that the script can find your photos. Either name your photos hipvar[number] or change line 11 of prawncolour.py to reflect your naming convention
+4) Ensure all photos are the same filetype, and line 20 of prawncolour.py reflects this. If not, convert your photos and edit line 20 of prawncolour.py to match your chosen filetype (png reccomended)
 5) Run datascience_assignment.py to analyse your photos.
