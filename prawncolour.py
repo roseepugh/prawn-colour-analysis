@@ -1,4 +1,13 @@
 def prawncolour(filename):
+    """
+    This function attempts to identify the colour of a chameleon prawn (Hippolyte varians) from a photo. This works best if the prawn is photographed against a monochrome, light-coloured background.
+
+    Args:
+    filename - a number identifying the photo to be analysed from a list of photos named "hipvar[number].png". If a different naming convention or filetype is being used, line 20 can be modified to reflect this.
+
+    Example:
+    >>> prawncolour.prawncolour(1)
+    """
     #imports necessary modules
     from PIL import Image
     import numpy as np
