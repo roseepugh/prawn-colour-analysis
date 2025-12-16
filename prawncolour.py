@@ -8,7 +8,7 @@ def prawncolour(filename):
     print(f"File to be analysed: hipvar{filename}.png")
     #Importing and checking image
     print("Importing image")
-    img_handle  = Image.open(f"./data/photos/hipvar{filename}.png") #currently works for images named "hipvar[number].png". Can be changed for different filetypes or naming conventions
+    img_handle  = Image.open(f"./data/prawns/hipvar{filename}.png") #currently works for images named "hipvar[number].png". Can be changed for different filetypes or naming conventions
     img = np.array(img_handle)
     print("Image imported")
     print("Image Dimensions (Height, Width, Colour)", img.shape)
